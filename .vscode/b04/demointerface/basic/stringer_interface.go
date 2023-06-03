@@ -73,5 +73,6 @@ func DemoStringerInterface() {
 	}
 
 	fmt.Println(cp)
-
 }
+
+
